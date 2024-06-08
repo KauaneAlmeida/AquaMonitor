@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aqua_monitor.props" />
+</Project>

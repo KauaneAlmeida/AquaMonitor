@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\models\\monitoringlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:models\\monitoringlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\views\\auth\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:views\\auth\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\models\\oceanwaterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:models\\oceanwaterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\models\\polutiontypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:models\\polutiontypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\repositories\\usersrepository\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:repositories\\usersrepository\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\aquamonitor.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:aquamonitor.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|c:\\users\\kauane almeida\\desktop\\faculdade\\aquamonitor\\repositories\\usersrepository\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F999FB1-A730-47B1-B377-F2D2024C31AC}|aqua_monitor.csproj|solutionrelative:repositories\\usersrepository\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-08T01:14:03.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Views\\Auth\\_LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\_LoginLayout.cshtml",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Views\\Auth\\_LoginLayout.cshtml",
+              "RelativeToolTip": "Views\\Auth\\_LoginLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T01:13:03.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\DatabaseContext.cs",
+              "RelativeToolTip": "DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:57:15.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:56:09.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:55:23.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PolutionTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Models\\PolutionTypes.cs",
+              "RelativeDocumentMoniker": "Models\\PolutionTypes.cs",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Models\\PolutionTypes.cs",
+              "RelativeToolTip": "Models\\PolutionTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:55:22.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonitoringLocation.cs",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Models\\MonitoringLocation.cs",
+              "RelativeDocumentMoniker": "Models\\MonitoringLocation.cs",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Models\\MonitoringLocation.cs",
+              "RelativeToolTip": "Models\\MonitoringLocation.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:52:46.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T01:04:36.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OceanWaterData.cs",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Models\\OceanWaterData.cs",
+              "RelativeDocumentMoniker": "Models\\OceanWaterData.cs",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Models\\OceanWaterData.cs",
+              "RelativeToolTip": "Models\\OceanWaterData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:52:49.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "aquamonitor.db",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\aquamonitor.db",
+              "RelativeDocumentMoniker": "aquamonitor.db",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\aquamonitor.db",
+              "RelativeToolTip": "aquamonitor.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGGSURBVDhPY2SAgsry0vsMDP8VoFwsgPHBn38Mgd3d3RegAkDl//9DWSADSv7/\u002BvULJwbJNzXUvi8tLTWAagEDJihNFEhITBbg5ebYj2wI0QYICAgwTJ82heH79\u002B8CLEz/90OFEQDdC3uOnPm/69ApFDEYBqmFasN0wdXbDxh2HDzJ8O79B4a3794zrN9\u002BgOHc5RtQWUyAYQALExPDt2/fGUz0NBlMDbQYvn3/xsDCgtunGDJ//v5l\u002BP37F8Pff38Z/gHZf37/Zvjz5y9UFhNgGPDz508GUOI4cPQUw74jJxgYgZxTZ88DXfIDogANYBhgpKvBEObnxsDHw8XwF2jzsxdPGR49eczQ0TeR4cbN21BVCIDTc4FeLgyezjYMHz98ZGirKWf48O4dAwcHG1QWAXCHDhB8/QoMQKCK3KJSBlZWZpSUCwN4DVBXVWaoKMpnsLG0YOjtaGNQVMDMKngNAAFuLi6G8NBgKA8TEDSAEEDKzsXA7MyIJzsjg/8P2jt7FRkYGBgAmdPDqvBXzR4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-08T00:55:58.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Controllers\\Auth.cs",
+              "RelativeDocumentMoniker": "Controllers\\Auth.cs",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Controllers\\Auth.cs",
+              "RelativeToolTip": "Controllers\\Auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:52:30.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Repositories\\UsersRepository\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsersRepository\\IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Repositories\\UsersRepository\\IUsersRepository.cs",
+              "RelativeToolTip": "Repositories\\UsersRepository\\IUsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:52:20.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Repositories\\UsersRepository\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsersRepository\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\Kauane Almeida\\Desktop\\Faculdade\\AquaMonitor\\Repositories\\UsersRepository\\UsersRepository.cs",
+              "RelativeToolTip": "Repositories\\UsersRepository\\UsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:55:31.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
